@@ -7,7 +7,7 @@ Bu proje, büyük çözünürlüklü patoloji slaytlarını sanal mikroskop gör
 
 [Sanal Mikroskop Projesi](https://metinciris.github.io/slaytlar/)
 
-## BCC Görüntüsü
+## BCC tam boy ve yakılaşmış alan:
 
 ![BCC Görüntüsü](https://raw.githubusercontent.com/metinciris/slaytlar/main/bcc.jpg)
 
