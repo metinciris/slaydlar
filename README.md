@@ -3,9 +3,9 @@
 
 Bu proje, büyük çözünürlüklü patoloji slaytlarını sanal mikroskop görünümünde görüntülemek için OpenSeadragon kütüphanesini kullanmaktadır. Slaytlar, Deep Zoom formatına dönüştürülerek her biri için ayrı bir bağlantı ile sunulmaktadır.
 
-<p align="center">
+[<p align="center">
   <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png](https://github.com/metinciris/slaytlar/blob/main/bcc.jpg)?raw=true" alt="BCC adding"/>
-</p>
+</p>](https://github.com/metinciris/slaytlar/blob/main/bcc.jpg)
 
 Slaytlara şimdi bakın:  https://metinciris.github.io/slaytlar/
 
