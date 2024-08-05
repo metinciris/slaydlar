@@ -1,15 +1,15 @@
 ```markdown
-# Sanal Mikroskop Projesi slaytlar
+# Sanal Mikroskop Projesi
 
 Bu proje, büyük çözünürlüklü patoloji slaytlarını sanal mikroskop görünümünde görüntülemek için OpenSeadragon kütüphanesini kullanmaktadır. Slaytlar, Deep Zoom formatına dönüştürülerek her biri için ayrı bir bağlantı ile sunulmaktadır.
 
+## Slaytlara Şimdi Bakın
 
-![BCC Görüntüsü]([https://github.com/metinciris/kameradan/blob/main/okuma.jpeg](https://github.com/metinciris/slaytlar/raw/main/bcc.jpg))
+[Sanal Mikroskop Projesi](https://metinciris.github.io/slaytlar/)
 
+## BCC Görüntüsü
 
-![BCC Görüntüsü](https://github.com/metinciris/slaytlar/raw/main/bcc.jpg)
-
-Slaytlara şimdi bakın:  https://metinciris.github.io/slaytlar/
+![BCC Görüntüsü](https://raw.githubusercontent.com/metinciris/slaytlar/main/bcc.jpg)
 
 ## Proje Yapısı
 
@@ -61,7 +61,7 @@ Her slayt klasöründe bulunan `index.html` dosyası, OpenSeadragon kütüphanes
 
 ## GitHub Pages
 
-Proje, GitHub Pages üzerinden yayınlanarak kullanıcıların erişimine sunulmuştur. GitHub Pages etkinleştirilmiş olup, [Proje URL'si] üzerinden görüntülenebilir.
+Proje, GitHub Pages üzerinden yayınlanarak kullanıcıların erişimine sunulmuştur. [Proje URL'si](https://metinciris.github.io/slaytlar/) üzerinden görüntülenebilir.
 
 ## Yeni Slayt Ekleme
 
@@ -87,7 +87,4 @@ Bu projeye katkıda bulunmak için lütfen bir pull request gönderin veya bir i
 ---
 
 Teşekkürler!
-
 ```
-
-Sanal mikroskopi Slaytlarını web tarayıcıda görmek için: https://metinciris.github.io/slaytlar/
